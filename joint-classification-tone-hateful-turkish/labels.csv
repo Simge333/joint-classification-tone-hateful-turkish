@@ -1,0 +1,361 @@
+name,content,tone,sentence_id
+hatefulYeni Kayıt 72.wav,neutral,aggresive,32
+hatefulYeni Kayıt 71.wav,neutral,aggresive,31
+hatefulYeni Kayıt 70.wav,neutral,aggresive,30
+hatefulYeni Kayıt 69.wav,neutral,aggresive,29
+hatefulYeni Kayıt 68.wav,neutral,aggresive,28
+hatefulYeni Kayıt 67.wav,neutral,aggresive,27
+hatefulYeni Kayıt 66.wav,neutral,aggresive,26
+hatefulYeni Kayıt 65.wav,neutral,aggresive,25
+hatefulYeni Kayıt 64.wav,hateful,aggresive,72
+hatefulYeni Kayıt 63.wav,hateful,aggresive,71
+hatefulYeni Kayıt 62.wav,hateful,aggresive,70
+hatefulYeni Kayıt 61.wav,hateful,aggresive,69
+hatefulYeni Kayıt 60.wav,hateful,aggresive,68
+hatefulYeni Kayıt 59.wav,hateful,aggresive,67
+hatefulYeni Kayıt 58.wav,hateful,aggresive,66
+hatefulYeni Kayıt 57.wav,hateful,aggresive,65
+hatefulYeni Kayıt 56.wav,positive,aggresive,112
+hatefulYeni Kayıt 55.wav,positive,aggresive,111
+hatefulYeni Kayıt 54.wav,positive,aggresive,110
+hatefulYeni Kayıt 53.wav,positive,aggresive,109
+hatefulYeni Kayıt 52.wav,positive,aggresive,108
+hatefulYeni Kayıt 51.wav,positive,aggresive,107
+hatefulYeni Kayıt 50.wav,positive,aggresive,106
+hatefulYeni Kayıt 49.wav,positive,aggresive,105
+hatefulT24.wav,positive,aggresive,104
+hatefulT23.wav,positive,aggresive,103
+hatefulT22.wav,positive,aggresive,102
+hatefulT21.wav,positive,aggresive,101
+hatefulT20.wav,positive,aggresive,100
+hatefulT19.wav,positive,aggresive,99
+hatefulT18.wav,positive,aggresive,98
+hatefulT17.wav,positive,aggresive,97
+hatefulT16.wav,hateful,aggresive,64
+hatefulT15.wav,hateful,aggresive,63
+hatefulT14.wav,hateful,aggresive,62
+hatefulT13.wav,hateful,aggresive,61
+hatefulT12.wav,hateful,aggresive,60
+hatefulT11.wav,hateful,aggresive,59
+hatefulT10.wav,hateful,aggresive,58
+hatefulT9.wav,hateful,aggresive,57
+hatefulT8.wav,neutral,aggresive,24
+hatefulT7.wav,neutral,aggresive,23
+hatefulT6.wav,neutral,aggresive,22
+hatefulT5.wav,neutral,aggresive,21
+hatefulT4.wav,neutral,aggresive,20
+hatefulT3.wav,neutral,aggresive,19
+hatefulT2.wav,neutral,aggresive,18
+hatefulT1.wav,neutral,aggresive,17
+hatefulNefno8.wav,hateful,neutral,80
+hatefulNefno7.wav,hateful,neutral,79
+hatefulNefno6.wav,hateful,neutral,78
+hatefulNefno5.wav,hateful,neutral,77
+hatefulNefno4.wav,hateful,neutral,76
+hatefulNefno3.wav,hateful,neutral,75
+hatefulNefno2.wav,hateful,neutral,74
+hatefulNefno1.wav,hateful,neutral,73
+hatefulMuNef8.wav,hateful,happy,80
+hatefulMuNef7.wav,hateful,happy,79
+hatefulMuNef6.wav,hateful,happy,78
+hatefulMuNef5.wav,hateful,happy,77
+hatefulMuNef4.wav,hateful,happy,76
+hatefulMuNef3.wav,hateful,happy,75
+hatefulMuNef2.wav,hateful,happy,74
+hatefulMuNef1.wav,hateful,happy,73
+hatefulM24.wav,positive,aggresive,95
+hatefulM23.wav,positive,aggresive,96
+hatefulM22.wav,positive,aggresive,94
+hatefulM21.wav,positive,aggresive,93
+hatefulM20.wav,positive,aggresive,92
+hatefulM19.wav,positive,aggresive,91
+hatefulM18.wav,positive,aggresive,90
+hatefulM17.wav,positive,aggresive,89
+hatefulM16.wav,hateful,aggresive,56
+hatefulM15.wav,hateful,aggresive,55
+hatefulM14.wav,hateful,aggresive,54
+hatefulM13.wav,hateful,aggresive,53
+hatefulM12.wav,hateful,aggresive,52
+hatefulM11.wav,hateful,aggresive,51
+hatefulM10.wav,hateful,aggresive,50
+hatefulM9.wav,hateful,aggresive,49
+hatefulM8.wav,neutral,aggresive,16
+hatefulM7.wav,neutral,aggresive,15
+hatefulM6.wav,neutral,aggresive,14
+hatefulM5.wav,neutral,aggresive,13
+hatefulM4.wav,neutral,aggresive,12
+hatefulM3.wav,neutral,aggresive,11
+hatefulM2.wav,neutral,aggresive,10
+hatefulM1.wav,neutral,aggresive,9
+hatefulElhamH24.wav,positive,aggresive,86
+hatefulElhamH23.wav,positive,aggresive,87
+hatefulElhamH22.wav,positive,aggresive,96
+hatefulElhamH21.wav,neutral,aggresive,1
+hatefulElhamH20.wav,neutral,aggresive,2
+hatefulElhamH19.wav,neutral,aggresive,3
+hatefulElhamH18.wav,neutral,aggresive,4
+hatefulElhamH17.wav,neutral,aggresive,5
+hatefulElhamH16.wav,neutral,aggresive,6
+hatefulElhamH15.wav,neutral,aggresive,7
+hatefulElhamH14.wav,neutral,aggresive,8
+hatefulElhamH13.wav,hateful,aggresive,41
+hatefulElhamH12.wav,hateful,aggresive,42
+hatefulElhamH11.wav,hateful,aggresive,43
+hatefulElhamH10.wav,hateful,aggresive,44
+hatefulElhamH9.wav,hateful,aggresive,45
+hatefulElhamH8.wav,hateful,aggresive,46
+hatefulElhamH7.wav,hateful,aggresive,47
+hatefulElhamH6.wav,hateful,aggresive,48
+hatefulElhamH5.wav,positive,aggresive,81
+hatefulElhamH4.wav,positive,aggresive,82
+hatefulElhamH3.wav,positive,aggresive,83
+hatefulElhamH2.wav,positive,aggresive,84
+hatefulElhamH1.wav,positive,aggresive,85
+hatefulAgnef8.wav,hateful,aggresive,80
+hatefulAgnef7.wav,hateful,aggresive,79
+hatefulAgnef6.wav,hateful,aggresive,78
+hatefulAgnef5.wav,hateful,aggresive,77
+hatefulAgnef4.wav,hateful,aggresive,76
+hatefulAgnef3.wav,hateful,aggresive,75
+hatefulAgnef2.wav,hateful,aggresive,74
+hatefulAgnef1.wav,hateful,aggresive,73
+neutralYeni Kayıt 48.wav,neutral,neutral,32
+neutralYeni Kayıt 47.wav,neutral,neutral,31
+neutralYeni Kayıt 46.wav,neutral,neutral,30
+neutralYeni Kayıt 45.wav,neutral,neutral,29
+neutralYeni Kayıt 44.wav,neutral,neutral,28
+neutralYeni Kayıt 43.wav,neutral,neutral,27
+neutralYeni Kayıt 42.wav,neutral,neutral,26
+neutralYeni Kayıt 41.wav,neutral,neutral,25
+neutralYeni Kayıt 40.wav,hateful,neutral,72
+neutralYeni Kayıt 39.wav,hateful,neutral,71
+neutralYeni Kayıt 38.wav,hateful,neutral,70
+neutralYeni Kayıt 37.wav,hateful,neutral,69
+neutralYeni Kayıt 36.wav,hateful,neutral,68
+neutralYeni Kayıt 35.wav,hateful,neutral,67
+neutralYeni Kayıt 34.wav,hateful,neutral,66
+neutralYeni Kayıt 33.wav,hateful,neutral,65
+neutralYeni Kayıt 32.wav,positive,neutral,112
+neutralYeni Kayıt 31.wav,positive,neutral,111
+neutralYeni Kayıt 30.wav,positive,neutral,110
+neutralYeni Kayıt 29.wav,positive,neutral,109
+neutralYeni Kayıt 28.wav,positive,neutral,108
+neutralYeni Kayıt 27.wav,positive,neutral,107
+neutralYeni Kayıt 26.wav,positive,neutral,106
+neutralYeni Kayıt 25.wav,positive,neutral,105
+neutralT24.wav,positive,neutral,104
+neutralT23.wav,positive,neutral,103
+neutralT22.wav,positive,neutral,102
+neutralT21.wav,positive,neutral,101
+neutralT20.wav,positive,neutral,100
+neutralT19.wav,positive,neutral,99
+neutralT18.wav,positive,neutral,98
+neutralT17.wav,positive,neutral,97
+neutralT16.wav,hateful,neutral,64
+neutralT15.wav,hateful,neutral,63
+neutralT14.wav,hateful,neutral,62
+neutralT13.wav,hateful,neutral,61
+neutralT12.wav,hateful,neutral,60
+neutralT11.wav,hateful,neutral,59
+neutralT10.wav,hateful,neutral,58
+neutralT9.wav,hateful,neutral,57
+neutralT8.wav,neutral,neutral,24
+neutralT7.wav,neutral,neutral,23
+neutralT6.wav,neutral,neutral,22
+neutralT5.wav,neutral,neutral,21
+neutralT4.wav,neutral,neutral,20
+neutralT3.wav,neutral,neutral,19
+neutralT2.wav,neutral,neutral,18
+neutralT1.wav,neutral,neutral,17
+neutralNono8.wav,neutral,neutral,40
+neutralNono7.wav,neutral,neutral,39
+neutralNono6.wav,neutral,neutral,38
+neutralNono5.wav,neutral,neutral,37
+neutralNono4.wav,neutral,neutral,36
+neutralNono3.wav,neutral,neutral,35
+neutralNono2.wav,neutral,neutral,34
+neutralNono1.wav,neutral,neutral,33
+neutralMuNo8.wav,neutral,happy,40
+neutralMuNo7.wav,neutral,happy,39
+neutralMuNo6.wav,neutral,happy,38
+neutralMuNo5.wav,neutral,happy,37
+neutralMuNo4.wav,neutral,happy,36
+neutralMuNo3.wav,neutral,happy,35
+neutralMuNo2.wav,neutral,happy,34
+neutralMuNo1.wav,neutral,happy,33
+neutralM24.wav,positive,neutral,95
+neutralM23.wav,positive,neutral,96
+neutralM22.wav,positive,neutral,94
+neutralM21.wav,positive,neutral,93
+neutralM20.wav,positive,neutral,92
+neutralM19.wav,positive,neutral,91
+neutralM18.wav,positive,neutral,90
+neutralM17.wav,positive,neutral,89
+neutralM16.wav,hateful,neutral,56
+neutralM15.wav,hateful,neutral,53
+neutralM14.wav,hateful,neutral,55
+neutralM13.wav,hateful,neutral,54
+neutralM12.wav,hateful,neutral,52
+neutralM11.wav,hateful,neutral,51
+neutralM10.wav,hateful,neutral,50
+neutralM9.wav,hateful,neutral,49
+neutralM8.wav,neutral,neutral,16
+neutralM7.wav,neutral,neutral,15
+neutralM6.wav,neutral,neutral,14
+neutralM5.wav,neutral,neutral,13
+neutralM4.wav,neutral,neutral,12
+neutralM3.wav,neutral,neutral,11
+neutralM2.wav,neutral,neutral,10
+neutralM1.wav,neutral,neutral,9
+neutralElhamN24.wav,neutral,neutral,1
+neutralElhamN23.wav,neutral,neutral,2
+neutralElhamN22.wav,neutral,neutral,3
+neutralElhamN21.wav,neutral,neutral,4
+neutralElhamN20.wav,neutral,neutral,5
+neutralElhamN19.wav,neutral,neutral,6
+neutralElhamN18.wav,neutral,neutral,7
+neutralElhamN17.wav,neutral,neutral,8
+neutralElhamN16.wav,hateful,neutral,41
+neutralElhamN15.wav,hateful,neutral,42
+neutralElhamN14.wav,hateful,neutral,43
+neutralElhamN13.wav,hateful,neutral,44
+neutralElhamN12.wav,hateful,neutral,45
+neutralElhamN11.wav,hateful,neutral,46
+neutralElhamN10.wav,hateful,neutral,47
+neutralElhamN9.wav,hateful,neutral,48
+neutralElhamN8.wav,positive,neutral,81
+neutralElhamN7.wav,positive,neutral,82
+neutralElhamN6.wav,positive,neutral,83
+neutralElhamN5.wav,positive,neutral,84
+neutralElhamN4.wav,positive,neutral,85
+neutralElhamN3.wav,positive,neutral,86
+neutralElhamN2.wav,positive,neutral,87
+neutralElhamN1.wav,positive,neutral,96
+neutralAgNo8.wav,neutral,aggresive,40
+neutralAgNo7.wav,neutral,aggresive,39
+neutralAgNo6.wav,neutral,aggresive,38
+neutralAgNo5.wav,neutral,aggresive,37
+neutralAgNo4.wav,neutral,aggresive,36
+neutralAgNo3.wav,neutral,aggresive,35
+neutralAgNo2.wav,neutral,aggresive,34
+neutralAgNo1.wav,neutral,aggresive,33
+positiveYeni Kayıt.wav,positive,happy,105
+positiveYeni Kayıt 24.wav,neutral,happy,32
+positiveYeni Kayıt 23.wav,neutral,happy,31
+positiveYeni Kayıt 22.wav,neutral,happy,30
+positiveYeni Kayıt 21.wav,neutral,happy,29
+positiveYeni Kayıt 20.wav,neutral,happy,28
+positiveYeni Kayıt 19.wav,neutral,happy,27
+positiveYeni Kayıt 18.wav,neutral,happy,26
+positiveYeni Kayıt 17.wav,neutral,happy,25
+positiveYeni Kayıt 16.wav,hateful,happy,72
+positiveYeni Kayıt 15.wav,hateful,happy,71
+positiveYeni Kayıt 14.wav,hateful,happy,70
+positiveYeni Kayıt 13.wav,hateful,happy,69
+positiveYeni Kayıt 12.wav,hateful,happy,68
+positiveYeni Kayıt 11.wav,hateful,happy,67
+positiveYeni Kayıt 10.wav,hateful,happy,66
+positiveYeni Kayıt 9.wav,hateful,happy,65
+positiveYeni Kayıt 8.wav,positive,happy,112
+positiveYeni Kayıt 7.wav,positive,happy,111
+positiveYeni Kayıt 6.wav,positive,happy,110
+positiveYeni Kayıt 5.wav,positive,happy,109
+positiveYeni Kayıt 4.wav,positive,happy,108
+positiveYeni Kayıt 3.wav,positive,happy,107
+positiveYeni Kayıt 2.wav,positive,happy,106
+positiveT24.wav,positive,happy,104
+positiveT23.wav,positive,happy,103
+positiveT22.wav,positive,happy,102
+positiveT21.wav,positive,happy,101
+positiveT20.wav,positive,happy,100
+positiveT19.wav,positive,happy,99
+positiveT18.wav,positive,happy,98
+positiveT17.wav,positive,happy,97
+positiveT16.wav,hateful,happy,64
+positiveT15.wav,hateful,happy,63
+positiveT14.wav,hateful,happy,62
+positiveT13.wav,hateful,happy,61
+positiveT12.wav,hateful,happy,60
+positiveT11.wav,hateful,happy,59
+positiveT10.wav,hateful,happy,58
+positiveT9.wav,hateful,happy,57
+positiveT8.wav,neutral,happy,24
+positiveT7.wav,neutral,happy,23
+positiveT6.wav,neutral,happy,22
+positiveT5.wav,neutral,happy,21
+positiveT4.wav,neutral,happy,20
+positiveT3.wav,neutral,happy,19
+positiveT2.wav,neutral,happy,18
+positiveT1.wav,neutral,happy,17
+positiveNopo8.wav,positive,neutral,120
+positiveNopo7.wav,positive,neutral,119
+positiveNopo6.wav,positive,neutral,118
+positiveNopo5.wav,positive,neutral,117
+positiveNopo4.wav,positive,neutral,116
+positiveNopo3.wav,positive,neutral,115
+positiveNopo2.wav,positive,neutral,114
+positiveNopo1.wav,positive,neutral,113
+positiveMupo8.wav,positive,happy,120
+positiveMupo7.wav,positive,happy,119
+positiveMupo6.wav,positive,happy,118
+positiveMupo5.wav,positive,happy,117
+positiveMupo4.wav,positive,happy,116
+positiveMupo3.wav,positive,happy,115
+positiveMupo2.wav,positive,happy,114
+positiveMupo1.wav,positive,happy,113
+positiveM24.wav,positive,happy,95
+positiveM23.wav,positive,happy,96
+positiveM22.wav,positive,happy,94
+positiveM21.wav,positive,happy,93
+positiveM20.wav,positive,happy,92
+positiveM19.wav,positive,happy,91
+positiveM18.wav,positive,happy,90
+positiveM17.wav,positive,happy,89
+positiveM16.wav,hateful,happy,56
+positiveM15.wav,hateful,happy,55
+positiveM14.wav,hateful,happy,54
+positiveM13.wav,hateful,happy,53
+positiveM12.wav,hateful,happy,52
+positiveM11.wav,hateful,happy,51
+positiveM10.wav,hateful,happy,50
+positiveM9.wav,hateful,happy,49
+positiveM8.wav,neutral,happy,16
+positiveM7.wav,neutral,happy,15
+positiveM6.wav,neutral,happy,14
+positiveM5.wav,neutral,happy,13
+positiveM4.wav,neutral,happy,12
+positiveM3.wav,neutral,happy,11
+positiveM2.wav,neutral,happy,10
+positiveM1.wav,neutral,happy,9
+positiveElhamP24.wav,neutral,happy,1
+positiveElhamP23.wav,neutral,happy,2
+positiveElhamP22.wav,neutral,happy,3
+positiveElhamP21.wav,neutral,happy,4
+positiveElhamP20.wav,neutral,happy,5
+positiveElhamP19.wav,neutral,happy,6
+positiveElhamP18.wav,neutral,happy,7
+positiveElhamP17.wav,neutral,happy,8
+positiveElhamP16.wav,hateful,happy,41
+positiveElhamP15.wav,hateful,happy,42
+positiveElhamP14.wav,hateful,happy,43
+positiveElhamP13.wav,hateful,happy,44
+positiveElhamP12.wav,hateful,happy,45
+positiveElhamP11.wav,hateful,happy,46
+positiveElhamP10.wav,hateful,happy,47
+positiveElhamP9.wav,hateful,happy,48
+positiveElhamP8.wav,positive,happy,81
+positiveElhamP7.wav,positive,happy,82
+positiveElhamP6.wav,positive,happy,83
+positiveElhamP5.wav,positive,happy,84
+positiveElhamP4.wav,positive,happy,85
+positiveElhamP3.wav,positive,happy,86
+positiveElhamP2.wav,positive,happy,87
+positiveElhamP1.wav,positive,happy,81
+positiveAgPo8.wav,positive,aggresive,120
+positiveAgPo7.wav,positive,aggresive,119
+positiveAgPo6.wav,positive,aggresive,118
+positiveAgPo5.wav,positive,aggresive,117
+positiveAgPo4.wav,positive,aggresive,116
+positiveAgPo3.wav,positive,aggresive,115
+positiveAgPo2.wav,positive,aggresive,114
+positiveAgPo1.wav,positive,aggresive,113
